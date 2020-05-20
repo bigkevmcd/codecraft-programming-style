@@ -17,4 +17,6 @@ func TestWordFrequency(t *testing.T) {
 		t.Fatal(err)
 	}
 	defer s.Close()
+
+	result := Frequency(f, s)
 }
