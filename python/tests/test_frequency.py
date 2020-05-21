@@ -1,5 +1,4 @@
 import os
-import pytest
 
 from words.frequency import calculate_frequency
 
