@@ -4,6 +4,7 @@ This is a repository of starter code for CodeCraft's "Exercises in Programming S
 
 This is based on Cristina Videira Lopes' great book ["Exercises in Programming Style"](https://www.crcpress.com/Exercises-in-Programming-Style/Lopes/p/book/9781482227376).
 
+# The Problem Statement
 
 * Counts the occurrences of words (term frequencies) in a file
 * Reads input words from a file
